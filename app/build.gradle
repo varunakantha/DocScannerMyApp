@@ -28,11 +28,12 @@ dependencies {
 
     implementation 'com.dynamsoft:dynamsoftcamerasdk:2.0@aar'
     implementation 'me.shaohui:bottomdialog:1.1.9'
-    implementation  'com.android.support:exifinterface:26.1.0'
+    implementation  'com.android.support:exifinterface:28.1.0'
     implementation 'cn.bingoogolapple:bga-baseadapter:1.2.9@aar'
     implementation 'q.rorbin:badgeview:1.1.3'
     implementation 'com.nispok:snackbar:2.11.+'
     implementation 'com.github.barteksc:android-pdf-viewer:3.0.0-beta.5'
+    compile 'com.android.support:support-v4:+'
 }
 
 repositories {
